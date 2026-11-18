@@ -1,0 +1,2 @@
+# id|name|minlat|minlon|maxlat|maxlon|file|sha256|roundabouts|roads|osm date. Map data: OpenStreetMap contributors, ODbL 1.0 (openstreetmap.org/copyright)
+luzern|Luzern|46.993005|8.201520|47.088522|8.432985|luzern-rb.txt|06947f5e4ed8c0fde18a27d34ec76c19ba5f37ec732257aeffa6d3b84b87c00c|56|13768|2026-11-17

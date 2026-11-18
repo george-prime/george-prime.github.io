@@ -1,0 +1,2 @@
+Map data (c) OpenStreetMap contributors, available under the Open Database License 1.0: https://www.openstreetmap.org/copyright
+Derived from the Geofabrik extract switzerland-261117.osm.pbf.
